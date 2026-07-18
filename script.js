@@ -1,3 +1,3 @@
-document.addEventListener("DOMContentLoaded", () => {
-    console.log("Science by Ajeet Kumar Website Loaded Successfully!");
-});
+function showMessage() {
+    alert("Welcome to Science By Ajeet Kumar 🚀");
+}
