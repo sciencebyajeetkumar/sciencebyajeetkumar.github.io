@@ -170,4 +170,18 @@ font-size:16px;
     display:block;
     margin:0 auto;
 }
+
+.card .btn{
+    display:inline-block !important;
+    background:#0077ff !important;
+    color:white !important;
+    padding:12px 25px !important;
+    border-radius:8px !important;
+    text-decoration:none !important;
+    font-weight:bold;
+    margin-top:15px;
+}
+
+.card .btn:hover{
+    background:#0056cc !important;
 }
